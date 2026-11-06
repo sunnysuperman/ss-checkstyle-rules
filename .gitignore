@@ -1,0 +1,28 @@
+# build
+target/
+
+# log
+logs/
+
+# trash
+.DS_Store
+
+# tmp
+__*
+.docs
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# idea
+.idea/
+.gradle
+*.iml
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Local Sonar connection and credentials
+/assets/quality/sonar/sonar-local.properties
