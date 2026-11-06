@@ -6,6 +6,29 @@
     <artifactId>ss-checkstyle-rules</artifactId>
     <version>3.0</version>
     <name>ss-checkstyle-rules</name>
+    <description>Custom Checkstyle rules for the ss-mountain3 project.</description>
+    <url>https://github.com/sunnysuperman/ss-checkstyle-rules</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <id>sunnysuperman</id>
+            <name>sunnysuperman</name>
+            <url>https://github.com/sunnysuperman</url>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:https://github.com/sunnysuperman/ss-checkstyle-rules.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/sunnysuperman/ss-checkstyle-rules.git</developerConnection>
+        <url>https://github.com/sunnysuperman/ss-checkstyle-rules</url>
+    </scm>
 
     <properties>
         <maven.compiler.release>8</maven.compiler.release>
